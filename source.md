@@ -9,9 +9,9 @@ output:
 ### PhD Student in Applied Mathematics, UC Davis
  
 <figure>
-  <img src="IMG_1277.jpg" style="width: 250px;"/>
+  <img src="supporting_files/IMG_1277.jpg" style="width: 250px;"/>
   <figcaption>Me on Ellis Island</figcaption>
-  <img src="kelly_and_i.png" style="width: 300px;"/>
+  <img src="supporting_files/kelly_and_i.png" style="width: 300px;"/>
   <figcaption>My fiance Kelly and I in Paris</figcaption>
 </figure> 
 
@@ -38,7 +38,7 @@ output:
 
 # Resume
 
-- Download my <a href="Fleischer_Resume.pdf">resume</a>
+- Download my <a href="supporting_files/Fleischer_Resume.pdf">resume</a>
 
 <!-- 
 ## Education
