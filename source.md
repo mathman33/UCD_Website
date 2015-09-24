@@ -8,8 +8,8 @@ output:
 
 ### PhD Student in Applied Mathematics, UC Davis
  
-<img src="supporting_files/IMG_1277.jpg" style="width: 250px;"/>
-<img src="supporting_files/kelly_and_i.png" style="width: 300px;"/>
+<img src="supporting_files/IMG_1277.jpg" style="height: 350px;"/>
+<img src="supporting_files/kelly_and_i.png" style="height: 350px;"/>
 
 # Contact
 
