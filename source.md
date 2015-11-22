@@ -6,7 +6,7 @@ output:
     theme: united
 ---
 
-### PhD Student in Applied Mathematics, UC Davis
+### PhD Student in Applied Mathematics, <a href="https://www.math.ucdavis.edu/">UC Davis</a>
  
 <img src="supporting_files/IMG_1277.jpg" style="height: 350px;"/>
 <img src="supporting_files/kelly_and_i.png" style="height: 350px;"/>
@@ -31,7 +31,8 @@ output:
 
 # Teaching
 
-- MAT 021C, Fall Quarter 2015, 1060 Bainer, Tues 8:10p-9p, Link to <a href="https://smartsite.ucdavis.edu/portal/site/9bba5bd4-0ce1-49c1-bfaa-46d16aa1d5ca">course webpage</a> 
+- MAT 021C, Fall Quarter 2015, 1060 Bainer, Tues 8:10p-9p, Link to <a href="https://smartsite.ucdavis.edu/portal/site/9bba5bd4-0ce1-49c1-bfaa-46d16aa1d5ca">course webpage</a>
+    - <a href="supporting_files/class_notes/Fall2015_MAT021C/notes.html">Notes from my discussion section</a>
 
 # Resume
 
