@@ -15,6 +15,7 @@ Download my notes:
 - <a href="Nov_03.pdf">Nov_03</a>
 - <a href="Nov_10.pdf">Nov_10</a>
 - <a href="Nov_17.pdf">Nov_17</a>
+- <a href="Dec_01.pdf">Dec_01</a>
 
 <a href="../../../index.html" style="font-size: 25px">Return to Main</a>
 
