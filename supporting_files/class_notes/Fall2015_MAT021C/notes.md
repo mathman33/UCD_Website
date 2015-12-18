@@ -8,6 +8,7 @@ output:
 
 Download my notes:
 
+- <a href="Calc_Resources.pdf">Calculus Resources</a>
 - <a href="Sept_29.pdf">Sept_29</a>
 - <a href="Oct_06.pdf">Oct_06</a>
 - <a href="Oct_20.pdf">Oct_20</a>
