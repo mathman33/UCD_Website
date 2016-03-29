@@ -15,8 +15,8 @@ output:
 
 - Email: SamFleischer \_at\_ ucdavis \*dot\* edu
 - Office: MSB 2232
-- Office Hours: MSB 2118: Tuesdays 3:10-4:10p; Thursdays 9:00-11:00a
-<!-- - Calculus Room Hours: Tues 6-7p -->
+- Office Hours: MSB 2232: Thursdays 2:30-3:30p
+- Calculus Room Hours: Thursdays 4-5p
 
 # Research
 
@@ -30,13 +30,17 @@ output:
 
 # Teaching Assistant
 
-- MAT 021C - Fall Quarter 2015
-    - Lecture: Mon, Wed, Fri 10a-10:50a, Scrub Oak Auditorium 160
+- MAT 021C, Fall Quarter 2015
+    <!-- - Lecture: Mon, Wed, Fri 10a-10:50a, Scrub Oak Auditorium 160
     - Discussion: Tues 8:10p-9p, Bainer Hall 1060
     - <a href="https://smartsite.ucdavis.edu/portal/site/9bba5bd4-0ce1-49c1-bfaa-46d16aa1d5ca">Course webpage</a>
-    - <a href="supporting_files/class_notes/Fall2015_MAT021C/notes.html">Notes from my discussion section</a>
+    - <a href="supporting_files/class_notes/Fall2015_MAT021C/notes.html">Notes from my discussion section</a> -->
 - MAT 022AL, Winter Quarter 2016
-    - Thurs 2:10p-3p, Mathematical Science Building 2118
+    <!-- - Thurs 2:10p-3p, Mathematical Science Building 2118 -->
+- MAT 017C, Spring Quarter 2016
+    - Lecture: Mon, Wed, Fri 8a-8:50a, Giedt Hall 1001
+    - Discussion: Thurs 6:10-7p, EPSCI 1317
+    - <a href="https://smartsite.ucdavis.edu/portal/site/6be831d5-80a8-4bf8-bc4e-1c5a4c2ce2c3">Course webpage</a>
     
 
 # Resume
