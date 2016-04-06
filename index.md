@@ -16,7 +16,7 @@ output:
 - Email: SamFleischer \_at\_ ucdavis \*dot\* edu
 - Office: MSB 2232
 - Office Hours: MSB 2232: Thursdays 2:30-3:30p
-- Calculus Room Hours: Thursdays 4-5p
+- <a href="https://www.math.ucdavis.edu/resources/calc_room/">Calculus Room</a> Hours: Wednesdays 4-5p
 
 # Research
 
