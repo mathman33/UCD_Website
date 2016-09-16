@@ -14,9 +14,9 @@ output:
 # Contact
 
 - Email: SamFleischer \_at\_ ucdavis \*dot\* edu
-- Office: MSB 2232
-- Office Hours: MSB 2232: Thursdays 2:30-3:30p
-- <a href="https://www.math.ucdavis.edu/resources/calc_room/">Calculus Room</a> Hours: Wednesdays 4-5p
+- Office: MSB 2141
+- Office Hours: MSB 2141: TBD
+<!-- - <a href="https://www.math.ucdavis.edu/resources/calc_room/">Calculus Room</a> Hours: Wednesdays 4-5p -->
 
 # Research
 
@@ -38,9 +38,13 @@ output:
 - MAT 022AL, Winter Quarter 2016
     <!-- - Thurs 2:10p-3p, Mathematical Science Building 2118 -->
 - MAT 017C, Spring Quarter 2016
-    - Lecture: Mon, Wed, Fri 8a-8:50a, Giedt Hall 1001
+    <!-- - Lecture: Mon, Wed, Fri 8a-8:50a, Giedt Hall 1001
     - Discussion: Thurs 6:10-7p, EPSCI 1317
-    - <a href="https://smartsite.ucdavis.edu/portal/site/6be831d5-80a8-4bf8-bc4e-1c5a4c2ce2c3">Course webpage</a>
+    - <a href="https://smartsite.ucdavis.edu/portal/site/6be831d5-80a8-4bf8-bc4e-1c5a4c2ce2c3">Course webpage</a> -->
+- MAT 017A, Fall Quarter 2016
+    - Lecture: Monday, Wednesday, Friday 3:10-4p, Haring Hall 2205
+    - Discussion: Section C04 Thursday 7:10-8p, Bainer Hall 1060
+    - Discussion: Section C05 Thursday 8:10-9p, Bainer Hall 1132
     
 
 # Resume
