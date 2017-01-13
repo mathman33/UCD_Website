@@ -49,4 +49,4 @@ output:
 
 # Resume
 
-- Download my <a href="supporting_files/Fleischer_Resume.pdf">resume</a>
+- Download my <a href="supporting_files/Fleischer_Resume.pdf">resume</a> and <a href="supporting_files/Fleischer_CV.pdf">curriculum vitae</a>
