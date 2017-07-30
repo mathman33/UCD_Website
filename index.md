@@ -13,12 +13,14 @@ output:
 
 # Contact
 
-- Email: SamFleischer \_at\_ ucdavis \*dot\* edu
+- Email: SamFleischer (((obvious email symbol))) ucdavis (((obvious email symbol))) edu
 - Office: MSB 2141
-- Office Hours:
+- Office Hours: TBD
+
+<!-- - Office Hours:
     - MSB 2141 - Tuesday 6:15pm - 7:15pm
     - MSB 2141 - Thursday 9:00am - 10:00am
-    - MSB 2141 - Friday 11:30am - 12:30pm
+    - MSB 2141 - Friday 11:00am - 12:00pm -->
 <!-- - <a href="https://www.math.ucdavis.edu/resources/calc_room/">Calculus Room</a> Hours: Wednesdays 4-5p -->
 
 # Research
@@ -47,11 +49,12 @@ output:
 - MAT 017A, Fall Quarter 2016
     - Lecture: Monday, Wednesday, Friday 3:10-4p, Haring Hall 2205
     - Discussion: Section C04 Thursday 7:10-8p, Bainer Hall 1060
-    - Discussion: Section C05 Thursday 8:10-9p, Bainer Hall 1132 -->
+    - Discussion: Section C05 Thursday 8:10-9p, Bainer Hall 1132
 - MAT 017A, Winter Quarter 2017
     - Lecture: Mon, Wed, Fri 1:10pm - 2:00pm, Wellman Hall 1
     - Discussion: Tues 5:10pm - 6:00pm, Wellman Hall 230
-    - <a href="https://canvas.ucdavis.edu/courses/68129">Course webpage</a>
+    - <a href="https://canvas.ucdavis.edu/courses/68129">Course webpage</a> -->
+TBD
     
 
 # Resume
