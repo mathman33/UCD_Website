@@ -32,6 +32,8 @@ output:
     - Ecology
     - Evolution
     - Epidemiology
+- Publications
+	- Fleischer, S. R., terHorst, C. P., Li, J. (2018).  "_Pick your trade-offs wisely: Predator-prey eco-evo dynamics are qualitatively different under different trade-offs,_" Journal of Theoretical Biology. Vol 456, pp. 201-212. <a href="https://doi.org/10.1016/j.jtbi.2018.08.013">[URL]</a> <a href="supporting_files/Fleischer-terHorst-Li-2018-JTB-BibTeX.tex">[BibTeX]</a> <a href="supporting_files/Fleischer-terHorst-Li-2018-JTB.pdf">[PDF]</a>
 
 # Teaching
 
@@ -59,4 +61,4 @@ TBD
 
 # Resume
 
-- Download my <a href="supporting_files/Fleischer_Resume.pdf">resume</a> and <a href="supporting_files/Fleischer_CV.pdf">curriculum vitae</a>
+- View my <a href="supporting_files/Fleischer_Resume.pdf">resume</a> and <a href="supporting_files/Fleischer_CV.pdf">curriculum vitae</a>
